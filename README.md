@@ -1,4 +1,4 @@
-# Cryto Joint Savings test
+# Cryto Joint Savings Contract
 
 
 Solidity app which resembles a joint savings acount.
